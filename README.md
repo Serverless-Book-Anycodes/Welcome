@@ -1,7 +1,11 @@
 # 感谢你这么好看还看这么本书
 
+## 图书购买地址
+
 - 京东购买地址：https://item.jd.com/13366562.html
 - 淘宝购买地址：https://detail.tmall.com/item.htm?id=652117399398
+
+## 作者简介
 
 <p>
 国防科技大学电子信息专业在读博士，阿里云Serverless产品侧负责人，从事Serverless相关的工作多年，负责阿里云函数计算（FC）、Serverless工作流（FNF）等产品。
